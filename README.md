@@ -1,4 +1,4 @@
-# 📈 Dashboard Sprzedaży Kawiarni
+# 📈 Dashboard Sprzedaży Kawiarni – Dashboard w PowerBI
 
 ![Demo Dashboardu](image-1.png)
 ![Demo Dashboardu](image-2.png)
